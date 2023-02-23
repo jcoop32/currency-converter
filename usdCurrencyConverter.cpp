@@ -35,4 +35,11 @@ int main(){
 	    setw(9) << "CNY "       << "|"  << "\t"  << setw(6) << rate.cny     << "|"  << "\t" << setw(5) << "¥"<< toCny       << '\n';
     return 0;
 
+
+    /*TODO: fix table to be align correctly
+            make user able to convert btw other currency's i.e AUD to CAD
+            other minor changes in code efficiently
+    
+    */
+
 }
