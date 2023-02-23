@@ -1,4 +1,6 @@
 #include <iostream>
+
+
 using namespace std;
 
 class Rates
@@ -17,3 +19,15 @@ public:
     float cny = 6.88;
 };
 
+class Sym
+{
+public:
+string usd =  "$";
+string euro = "€";
+string gbp =  "£";
+string jpy =  "¥";
+string inr =  "₹";
+string chf =  "₣";
+
+    
+};
