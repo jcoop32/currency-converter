@@ -8,7 +8,6 @@ using namespace std;
 
 int main(){
     Rates rate;
-    Sym sym;
     double dollar;
     cout << "Enter US dollar amount: $";
     cin >> dollar;

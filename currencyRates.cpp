@@ -18,16 +18,3 @@ public:
     float chf = 0.92;
     float cny = 6.88;
 };
-
-class Sym
-{
-public:
-string usd =  "$";
-string euro = "€";
-string gbp =  "£";
-string jpy =  "¥";
-string inr =  "₹";
-string chf =  "₣";
-
-    
-};
